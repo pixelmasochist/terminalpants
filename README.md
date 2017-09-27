@@ -1,4 +1,4 @@
 # terminalpants
 xorg bdf angular font
 
-![Alt text](screenshot.png?raw=true "terminalpants font")
+![alt text](http://pixelmasochsit.net/github/terminalpants-screenshot.png "terminalpants font")
